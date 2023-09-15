@@ -1,0 +1,10 @@
+result = 30 < 20
+print(result)
+print(30>20)
+print(30<20)
+print(30>=20)
+print(30<=20)
+print(30==20)
+print(30!=20)
+print("Hello"=="Hello")
+print("Hello"=="HELLO")
